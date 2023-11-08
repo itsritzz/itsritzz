@@ -7,11 +7,13 @@
 
 - 🌱 I’m currently learning **Machine Learning Specialization**
 
-- 👨‍💻 All of my projects are available at [https://itsritz.my.canva.site](https://itsritz.my.canva.site)
+- 👨‍💻 All of my projects are available at [https://github.com/itsritzz](https://github.com/itsritzz)
 
 - 💬 Ask me about **SQL, Python, Supervised Machine Learning**
 
 - 📫 How to reach me **riteshmaster121@gmail.com**
+
+- 📄 Know about my experiences [https://itsritz.my.canva.site](https://itsritz.my.canva.site)
 
 - ⚡ Fun fact **I can solve Rubik cube under a minute**
 
