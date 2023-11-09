@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **riteshmaster121@gmail.com**
 
-- 📄 Know about my experiences [https://itsritz.my.canva.site](https://itsritz.my.canva.site)
+- 📄 Know about my experiences [My Portfolio](https://itsritz.my.canva.site)
 
 - ⚡ Fun fact **I can solve Rubik cube under a minute**
 
