@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsritzz&label=Profile%20views&color=0e75b6&style=flat" alt="itsritzz" /> </p>
 
-- 🌱 I’m currently learning **Generative AI with Large Language Models?**
+- 🌱 I’m currently learning **Generative AI with Large Language Models**
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsritzz](https://github.com/itsritzz)
 
