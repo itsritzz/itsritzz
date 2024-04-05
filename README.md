@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/itsritzz](https://github.com/itsritzz)
 
-- 💬 Ask me about **SQL, Python,Machine Learning,Generative AI**
+- 💬 Ask me about **SQL, Python, Machine Learning, Generative AI**
 
 - 📫 How to reach me **sriteshkumar121@gmail.com**
 
